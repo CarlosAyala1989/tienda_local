@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "651366337051",
+    "project_id": "tienda-local-b8d89",
+    "storage_bucket": "tienda-local-b8d89.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651366337051:android:0db26f950b44705fd486be",
+        "android_client_info": {
+          "package_name": "com.example.tienda_local"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ35CSr_VBq-abFn9mQ3LdwJF_robIDbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
